@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<course>
+ <id>{f1417eb9-95e1-4aaa-8d1d-e5c00aff60c1}</id>
+ <title>Deutsch (KOY)</title>
+ <description></description>
+ <keyboardLayout>de(koy)</keyboardLayout>
+ <lessons>
+  <lesson>
+   <id>{1f3f29f4-cfc8-4347-8cf4-d53bb3fc40f3}</id>
+   <title>Zeigefinger: i und t</title>
+   <newCharacters>it</newCharacters>
+   <text>it tt tt ti ti ttt it tti it tti itit ii itt titt ti itt ti
+ttt tt tii ii iti iitt it tti it tt iii iiii tt tti iiti tt
+iii it ttt tt iii it tt itt tt tit ti tit ttit ti tit ti ii
+iit ti iit tt it iii tt iti iiii ti tti ii itt ii tt ii tit
+titi ii iti it ti itt tt iti iitt ii tt iit ittt ti it tit
+ttit ii ii tii ti iii tiit it tii iitt tt it iti it ii tii
+tttt ii tii ittt tt tit it iii tt iit it iit ti tt iti ii
+tt itt itii ti tt iti tt tit ti iii ttii ii tti itit ii tti
+titi ti it tt itt ii ii it tit titi ti iit titi ii iti titt
+ii iti it itt itit ii itt ii tti tt tit itii ti ti tti tiit
+ii itt ti ttt tiii</text>
+  </lesson>
+  <lesson>
+   <id>{c7dad24f-300b-4908-b60d-5cd55e3ab0cc}</id>
+   <title>Mittelfinger: e und r</title>
+   <newCharacters>er</newCharacters>
+   <text>rr rr rer rr rer rere ee eer reee re re eee rr rrr er eer
+erre rr ere rr ree rrer ee er re rre ee rrr re rrr eeer rr
+rr ee ee rer eeee rr er ree re rrr rrrr er ree er eee reer
+rr ree erre re ere eeee er er ree er eer eeer rr rer erre
+ee rrr er re re rr er rer rr eer eeer rr rer erer er rrr ee
+rr ree ee er eee re rer re er ee rr er err ee eee rerr er
+rrr rere re rre er ree eeer rr re eee ee er re ee rrr ee ee
+rrr rr ree re er ere eree re rrr errr re re er rre eeer re
+ere erer ee ee rre rr ee rer er er ree reee er er er eer rre
+re ee ree re rr ee eer reer re eee rr re re rr rer re ere
+reer re rre reer ee rr</text>
+  </lesson>
+  <lesson>
+   <id>{93662324-4ed2-4e56-bf46-a6591c9c36b2}</id>
+   <title>Ringfinger: a und n</title>
+   <newCharacters>an</newCharacters>
+   <text>nn naa nnaa aa na aa an nna aana na ann anna an na nna nnan
+aa nan aa nn ann nnnn nn ana naaa an nnn aann na aa aa nna
+an nna an aaa an na ana aann nn aan nn nna aa aa ann naaa
+aa nnn an aan anan nn nan nnna nn an nnn na na nan aa an
+nna aa aa ana nnan nn ana nnaa na naa annn an aaa na naa
+anaa an aan nana na aan an ana nnaa nn nnn aa ana an aa an
+nna an an naa nn nn ann an nnn aa nan anan nn na an aa ana
+aaan aa ann aaaa na aa naa nn ana nn aaa nn nan nann nn aa
+nn nnn naan nn aa nn ann aa aan annn na nna na aa nan nnan
+aa ann nnan nn nnn na nan aa nan aana an nnn aaaa na naa
+nnnn an ann nn aa ana na na ann nana</text>
+  </lesson>
+  <lesson>
+   <id>{a6f61032-05de-4355-956c-c6100910e03f}</id>
+   <title>Kleiner Finger: h und s</title>
+   <newCharacters>hs</newCharacters>
+   <text>sh ssh hs hsh hs ssh hh hsh hh hss shss hs hh hss shsh sh
+hh sss hsss hs shh hshs ss hhh hssh sh hss ss hss ss hhh
+sshs ss ss ssh hhhs hh shs shss sh sh ss hsh sh hhs hs hsh
+shss sh sh hh ss ssh sh shh sh shh ss ss sh hs hhh hssh ss
+hs hss sssh hs hh ss sss hs shh sssh hs shh sh hhs ss hs
+shh ss sss shhs hh shh hhss hh ssh hhsh ss hss sh hhh hs
+sh hsh ssss hh sss sshs hs ssh hs sss hhhh hh hh shs hh hhh
+hhhh ss shh hhss hs shh ss ss sss sh shs sh hh ss ssh hhsh
+ss hs shh hs hh ssh shhs hs sh hh hs hs shs ss hss sshs hh
+ss ssh hs hhh ss sh hss sshs sh ss hs hsh sh shh sh sss hhhs
+hh sh hss shss hh hsh hs shs</text>
+  </lesson>
+  <lesson>
+   <id>{e9aa0706-df52-4e9e-bf89-fb1432d2db76}</id>
+   <title>Grundhaltung (1) - Mix</title>
+   <newCharacters></newCharacters>
+   <text>rn et st rsr inhn ne sa asi ir hrt stns ia eh thn then re
+it rts atat na nei aiie aa esa rtnh it ira hshi rh ee nsn
+rtsn th ire irit sh are sn sh rhn srhi rh aat si nr era arta
+et sn ret re nai sn rsi rene ir ris ihni na nns ei the tani
+it ss rsi ehis ar stt rt ie hi nt ini ti int ai eas eh ean
+srns es en irn rsee as hit ih sns te art ae sn ne in ht tei
+hrta hr iha at ri nai ieaa ti hht nahn as th aet eien ri
+rta itie na hi ra rrn saia ts rr ttt ai rhr tihe th ien es
+ers nr ah aa tn ran sn sat erie en nsn es tt nrh hs rs ai
+rne atra sn hrn ar ine hner ns rth he ts sh hi ia sie ei
+nhn sheh ah sh nir rt tnh</text>
+  </lesson>
+  <lesson>
+   <id>{43e4b9ad-b7b9-4031-ad5b-cf9a2cb19784}</id>
+   <title>Grundhaltung (2) - bis 3 Zeichen</title>
+   <newCharacters></newCharacters>
+   <text>sei ans ans hie nie ihn sei ehe tat sei sie eh ihr ihr rar
+hat sah her ist es eh ins er ans ihn hat nie sie irr ins
+ran sah eh er eh ihr ein in et hie ein ans rar hin ran her
+ins rar ans sei an hie rar ans ihn ran ihn her hat her ans
+eh nah es ihn nie ist ans et ehe ran ran es eh nie eh sah
+ran ans er nie hie ihr ins nah sie ihr ans her an hie hin
+irr nah ist nie eh ein ans ins hie hat er her sie nah ins
+sei tat nah irr ran in irr ins ran nie ein an sah ehe ins
+er her ins hie ehe nah eh sie tat sie rar ihn ist ran an
+tat irr nie an nah tat iss eh rar rar et iss ist iss nie
+ihn her hat eh hat ihr eh er nah</text>
+  </lesson>
+  <lesson>
+   <id>{ab883932-6bec-49a8-bdc5-056698183a23}</id>
+   <title>Grundhaltung (3) - bis 4 Zeichen</title>
+   <newCharacters></newCharacters>
+   <text>ins rasa her naht ritt ihn anti ahnt riet nett hin steh steh
+hier tat ein irre hin nenn hast reit hier seit saht iss naht
+ein nett ist her irr seht ehre eins ahne erst ehrt satt iss
+isst riss seht rase eh hart riet eh sein anti rein saht eine
+arte esst irre rase sann sieh her ans sah sehr es ritt ans
+hast riss rare er sie sieh ist naht sieh nahe eint riss saht
+hast ein rare hier ihre irr ehe anti es nenn esst nett sei
+nie nein ihr riss irre eine ran et nahe eint riss sie iss
+et eins ahnt sah esst eins sehr ans isst hin anti esse her
+esse rase rein ehe nenn ein ehe riet ehe nah es nah ihr sehe
+seht arte irre</text>
+  </lesson>
+  <lesson>
+   <id>{73796b74-a317-4a60-87c2-c5d633e65bda}</id>
+   <title>Grundhaltung (4) - bis 5 Zeichen</title>
+   <newCharacters></newCharacters>
+   <text>hasst hinan harte nenn hier rinnt arte rare rast rares niet
+ehre irren ihres rette hast erst sann nein ihrer ahnen sahen
+teere ihn eine ans siehe et artet es seine hier niese hie
+tarnt tarnt tarne harre innen ansah niete sah ans sinnt haste
+eins seien rein naher seien riete rares riss steht saht esse
+nahst eines ihre hatte rasen naht satte ritt hie erst stehe
+rein stehe rase tarnt erst ihn nenne seien esst narrt niest
+hasse sahen eh risst hast tatet rarst tatet ehren sein steht
+einer hasst esse ehrt raten renne einst esst hart sahst harre
+risst sieht reine rasen ahne niese einte irr innen riete
+ran sinne</text>
+  </lesson>
+  <lesson>
+   <id>{831c64a2-dede-4529-9a2b-3b3f6bd026f5}</id>
+   <title>Grundhaltung (5) - bis 6 Zeichen</title>
+   <newCharacters></newCharacters>
+   <text>rinnt niet sinnen hattet sehnen reisen hattet heiter heiser
+sehne hatte trennt taste ihrer hattet reiner starrt reine
+tarnst sehen heran einsah sahnst sieh hierin irres teert
+hieran nieste sann satte sehnst anrate heran essen rennen
+eine eisern naher ahnen sinnen antrat einte artete sehnte
+ernten renne nahen harter niete tarnen seines stehe tratst
+ansaht nah ersann harren reihst rarste raste streit ran nenne
+nenne reisen irrere sieht sei reines es eh erntet anseht
+antat nennt hatten seist stets rennst narrt einten rarere
+sehnst anriss seinen stets seht rettet ran nettes nietet
+ratet taste rette ansehe siehst
+</text>
+  </lesson>
+  <lesson>
+   <id>{42fa6e57-ab3b-407c-b958-2a8095fae4f5}</id>
+   <title>Zeigefinger: u und d</title>
+   <newCharacters>ud</newCharacters>
+   <text>ud dud dduu uu ud uud dd uud uddu du udu uddu uu ddu dd du
+ddd uduu du ddu uudu ud ud uud uduu dd dd ddu ud dd dud du
+udd dddd du uu dd ddd uudu ud udd uddd ud udd dduu dd du
+ddu uddd dd ddu ud udd dd uu uu ddu uddu uu dud udud ud uu
+duu duud dd duu dddd uu uu udu dduu dd dd uuu uu udu duuu
+uu ddd dd uuu ddud uu uud uuuu du ddd uu du uud dd ddu du
+du ddu dudd dd ddu ud dd du uu ddd du dd ddd uu uuu dd dud
+duud ud uu udd dduu dd uud dduu uu dud uddu dd duu du duu
+uu duu uudd dd udu ud uu ddd uddd uu uu ud ud duu uudu du
+uud uuuu uu duu dudu ud duu uuud uu uu ddd uduu du duu ud
+uud dudd ud uuu dd du ddd ud</text>
+  </lesson>
+  <lesson>
+   <id>{f5caf3a0-b71e-4a89-a6ab-4208ef131968}</id>
+   <title>Grundhaltung mit u und d - bis 6 Zeichen</title>
+   <newCharacters></newCharacters>
+   <text>erahnt staust aride teures tarnte tut saute dehnte uns hin
+harre harter siehst harre andern surrt hartes niese es staut
+antut ritte erahnt theta rudern ruhtet heuer irre unsrer
+hurt sattes dehnen rauste steure dehnte dauere ahnst ihrer
+erntet hinan naher drehst neunt erneut teerst raten harre
+ehrend dessen dreh reines ein rasest saute ehe rautet anrate
+ein narre teerte harre nettes niese hauten sinnst anseht
+sahnen unter staunt dehnte erde tatest eintet redend ad ran
+rietst hauen rudere nette harrt rinnen andre ehrtet taute
+runder erstes reden nette da erden andrer turne diese nun
+irden sandte haust nieste</text>
+  </lesson>
+  <lesson>
+   <id>{f13e5ccf-4d8b-4b6a-aeb2-2505e89e0406}</id>
+   <title>Mittelfinger: o und v</title>
+   <newCharacters>ov</newCharacters>
+   <text>vo vov vovv vo vo ovo ovvv ov vvv ovvo ov vo oov oo ovv vo
+vvv ovvv ov ovv ov ooo vo vvo vvoo ov vo oo vvo oo ovo ov
+vo vv ooo ooov vv voo ovoo ov vvv ooov ov ovo vovv ov vv
+vov oo voo oo vvv oo vvo vovv vo vvo oo oov vvvo vo vvo vo
+vvv vo ov vv vv ovo vo voo vo ov oov ov oo vvo oovv vv vvv
+voov oo ooo vvvv vv voo vv vo ooo vvvo vo ooo vv vo oov vovv
+oo vov vvov ov ovv oooo vv ooo vvov vv ovv vvvo vo vov vvvo
+oo oo ooo vv vvo vo ooo vv voo vo oo vov vo vo vov ov vov
+ovvv vv oo ooo ovov vo ovv vvvo ov oov vo ovo vvvo vv ooo
+oo voo vv ovo oovv vo ovv vvov oo vov vovv ov vv vvv vvov
+oo oov ovvo vo oov ovov oo vvo ovvv</text>
+  </lesson>
+  <lesson>
+   <id>{ffca5db7-2cbe-4e3b-90d0-59f34cc48782}</id>
+   <title>Grundhaltung mit o und v - bis 6 Zeichen</title>
+   <newCharacters></newCharacters>
+   <text>erde sonor rannte ehrend nahes drehte hieran diese rode rottet
+taute erdet treuer riet sah ins das sahnen hiev saurer naive
+sause sahnen eher niet stur aussah reisen redete tutest reinen
+trennt neust hat van dreien dorrte netter sannt redend ihnen
+rodend statt nett rarere orten dorre rote erdend verhau teuren
+untreu toste neue vorhat rase tot haue tust streue satte
+stiere dar rodest neiden ansaht div sauren ruhten raunst
+risst rennst rundes nennst viert hinan saust erster heiter
+thront erste nervte siedet untote hassen antat ritten andres
+nass so sautet von dreht theta sendet ersann staust tretet
+rot stand</text>
+  </lesson>
+  <lesson>
+   <id>{34fc2368-f846-45cd-aef9-2707a83038db}</id>
+   <title>Zeigefinger: ä und b</title>
+   <newCharacters>äb</newCharacters>
+   <text>ää äbb bä bbb bääb ää ää bä bbb bbää bä bää bä äbä äbbb bä
+bbb bä bää äb bbb äbäb äb bb äbä äb äbä bäää bä äbä bä äää
+bb bbä bb bäb äbbä bä äb bbb äb ää ääb bäää äb bä äbb äbbb
+äb äbb bb äbb äbää äb bbb äb äää bä äbä bbää bb äbb ääbb
+ää äbb ääbb äb bäb äbäb bä bä ääb bb ääb äbbb äb ää bb äää
+ää äää äbää bb bb äää ää bb äbb ääää bä bbä bä äbb bbää äb
+bäb bbäb ää äb äbä bäbb äb äbä bääb bb bb bä ääb bb äbb bbbb
+äb bbä äbbä bä bäb äb bä äbä äbbb bä ää ää bbä ääbb bä bää
+bbää äb äbä bäbb äb bäb bb bää bä äää bä bäb bä ääb bäää
+bä bbb äbbb ää ääb bb bä bä bää bäbä bb äbä ääbb ää bb äbä
+ääää äb ää bää bb äbä äb</text>
+  </lesson>
+  <lesson>
+   <id>{925df11e-4693-4244-99bc-e49c3eb0b9a7}</id>
+   <title>mit ä und b - bis 6 Zeichen</title>
+   <newCharacters></newCharacters>
+   <text>ende rau ästet rauten nähert teure nahst hoher riebt beriet
+hauend sahnst native ratio eo nährst besinn taube sinnt hatte
+anbaut ratend treu ahnden säe bannst ist riebt naher anbaue
+rennt antut arten taubes darben tauen vorsah saurer iota
+surren naivst hinten ortet abhebe stiebt anders raust raunst
+sodann niet eher rohes bratet erst sähe bahnen bahne niest
+ebbte seht rasten rotte deren throne bettet abtue batst reitet
+baden husten besaht stures tränt säuere trauen testet säuere
+oberen strebt verrät taue rast binnen ebbt heben rittet vorsah
+dorrst redet tutet sehen drohte abbaue stiert oberen sandte
+vier bootet
+</text>
+  </lesson>
+ </lessons>
+</course>
