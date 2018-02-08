@@ -195,14 +195,14 @@ hechte
    <id>{34fc2368-f846-45cd-aef9-2707a83038db}</id>
    <title>Zeigefinger: ü und b</title>
    <newCharacters>üb</newCharacters>
-   <text>üüb üüü üübü üüb übü übbb bbbbü büb üübb bbb üüüü üüübü
-übü üüüü übü üüüb üüüüb übübüü büb üüüü üüb üüüb übü
-bbüb übbbb büübbb übb büb bbbü bbbbü büübüb bbü bübü
-üübüü bbbbüb üüü bübü bbübü übb bbüü übü übü übüü bübüb
-bübüüü büb übüü bbbbü üüü büüb übbüü büü bbü üübü übüüü
-bbb bübb bbb bbbü übbbb übübbb üüü büüü üübüü übüübü
-büb übü üüb bbüü üübbü übü übüü büü büb übb büüü bbüüü
-büü bbüü bbbüü üüb üüb üüüb bbb üüüb bübbb übüübb bbü</text>
+   <text>bbb bbbü bbb büü üüü bübb büü bbb büü bbüü üüb üüb üüb
+büü büüb bbü bbüü bbb bübü übb üüüü übü bbb üüü bbüb
+übb üüüb üüb büü büüü üüü übb üüü üüüü üüü bbü bbü übb
+bübb büü büüb üüb bbb büüü üüb büü bbü büü übbb bbb
+bbb bbü bbüü bbb üübb bbb übüü üüü üübb üüü üüü üüü
+üüüü üüü bbb üüüb bbb üüb bbü übü büb übb büüü übü bübb
+bbü büb büb büü üüb üüüb üüü bbb üüü üüü üübb büb üüü
+übü übbb üüü üüb bbü übüü übb büü übüü</text>
   </lesson>
   <lesson>
    <id>{925df11e-4693-4244-99bc-e49c3eb0b9a7}</id>
@@ -225,14 +225,14 @@ banne habe bitte absehe</text>
    <id>{53d55a83-5e5d-4a83-806f-b822e3e127bf}</id>
    <title>Mittelfinger: w und ä</title>
    <newCharacters>wä</newCharacters>
-   <text>ääw äääw wäw wwäw wwäwä ääw äääw ääw ääää wäw äwwä wwäww
-äwwäww wää wwäw äwääw wwä wäww ääwwä äwwäwä wwä wwwä
-wwwww wwäääw äwä äwww ääw ääw äww ääww äwwww wwääää
-äwä äääw äääää wwä äääw äwwwä wäwwää äwä wwäw wwäää
-wää wää wwwä äääwä wääwwä ääw äwwä ääwäw äwä äääw äwwww
-äää ääää wwäwä wää ääw wäää www wääw wwwww äwä wäää
-äwäää wäw äää äwäw wää ääwä wääää wäw wäww äwwäw ääw
-ääw äwäw ääwww wäääww wwä äwää wäääw wwäääw äää äää</text>
+   <text>wäw äwä ääw äwää www ääää äww ääw äwäw ääw äwäw wäw
+www äää wwä äää äww äww ääwä www äwää www äwww äwä wääw
+ääw wäww ääw wäw ääää ääw äwwä ääw wäww ääw ääw äää
+www ääww wwä wwww ääw wwää wäw ääw wää wäw wwww wää
+wäää wäw wwää wwä ääww wwä wää äwä äwä wäwä wää wäää
+wwä wäää wäw ääww äww wwä wwä ääw äwäw äwä äwä ääw äwww
+äää ääää wäw wwww www wwää äää wäää äww wwww www wwä
+wwwä ääw www wäwä wää wääw www äää äwwä</text>
   </lesson>
   <lesson>
    <id>{f65e9c98-75b4-48b5-8266-a3beb047639a}</id>
@@ -249,21 +249,20 @@ wurdet wurdet währte wohne wendet wette brät nähre wach
 wirrst wett webtet wer weisen wehrst weist wunden nächst
 wähnst webend ästen wart wirrst weiche wirbst härter
 werten härte was würde wund wütend würdet wahrer wüsste
-weites nächst
-</text>
+weites nächst</text>
   </lesson>
   <lesson>
    <id>{1c252b91-bab1-4fbf-b476-5fe64ab917bd}</id>
    <title>Ringfinger: q und l</title>
    <newCharacters>ql</newCharacters>
-   <text>qlq qlll lqqql qqq lqqq lqqlq qlq lqqq lll lqql lll
-lqlq lll qllq lqqql qql qqql llqlq lql llq llql qqlqq
-lqq llql qql qlll qqlll llq lqqq qqqql qqqllq lql qlll
-lll lqqq qqlqq qlq qlll qqqql qlq lqqq qlllq llqqll
-qql qlq qqq qlql llqlq qllqlq lql llql lllql qqqqql
-qql llql qlqqq llq llql lqlql qqllll llq lllq qqq qqlq
-qlllq lll lqll llq qqll qqllq qllqll qlq lqlq lqqll
-qlqqql lqq llll lqq qqql qll qql lqqq lqqll qlqlql qqq
+   <text>llq llq lqll lll lqlq qqq lqq qql llll lql llq qlq qqlq
+qll qqq lqqq qql lll qqq qlq qqqq llq qll qqlq lql lqql
+lql lllq qll lql qll lql qqqq lql lqql qll qqql qql
+lql qlq qlll qll llll qqq lqq qqll qlq lqqq qlq qllq
+qql lqlq qlq qqqq llq qllq llq lllq lqq lql qlq qqql
+qql qqq lll qlq lqq qql llql lqq qqq qqq lql lqqq lll
+qlq llql qqq lllq lqq lql qqql qql lqll lll qlll qlq
+qlll qlq lqqq llq qql lll qql qlq lqlq
 </text>
   </lesson>
   <lesson>
