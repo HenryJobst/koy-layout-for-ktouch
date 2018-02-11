@@ -15,7 +15,7 @@ iii it ttt tt iii it tt itt tt tit ti tit ttit ti tit ti ii
 iit ti iit tt it iii tt iti iiii ti tti ii itt ii tt ii tit
 titi ii iti it ti itt tt iti iitt ii tt iit ittt ti it tit
 ttit ii ii tii ti iii tiit it tii iitt tt it iti it ii tii
-tttt ii tii ittt tt tit it iii tt iit it iit ti tt iti ii</text>
+tttt ii tii ittt tt tit it iii tt iit it i</text>
   </lesson>
   <lesson>
    <id>{c7dad24f-300b-4908-b60d-5cd55e3ab0cc}</id>
@@ -27,7 +27,7 @@ rr ee ee rer eeee rr er ree re rrr rrrr er ree er eee reer
 rr ree erre re ere eeee er er ree er eer eeer rr rer erre
 ee rrr er re re rr er rer rr eer eeer rr rer erer er rrr ee
 rr ree ee er eee re rer re er ee rr er err ee eee rerr er
-rrr rere re rre er ree eeer rr re eee ee er re ee rrr ee ee</text>
+rrr rere re rre er ree eeer rr re eee ee er reer</text>
   </lesson>
   <lesson>
    <id>{93662324-4ed2-4e56-bf46-a6591c9c36b2}</id>
@@ -37,9 +37,9 @@ rrr rere re rre er ree eeer rr re eee ee er re ee rrr ee ee</text>
 aa nan aa nn ann nnnn nn ana naaa an nnn aann na aa aa nna
 an nna an aaa an na ana aann nn aan nn nna aa aa ann naaa
 aa nnn an aan anan nn nan nnna nn an nnn na na nan aa an
-nna aa aa ana nnan nn ana nnaa na naa annn an aaa na naa
+nna aa aa ana nnan nn ana nnaa na naa ann an aaa na naa
 anaa an aan nana na aan an ana nnaa nn nnn aa ana an aa an
-nna an an naa nn nn ann an nnn aa nan anan nn na an aa ana</text>
+nna an an naa nn nn ann an nnn aa nan anan nn na an</text>
   </lesson>
   <lesson>
    <id>{a6f61032-05de-4355-956c-c6100910e03f}</id>
@@ -51,7 +51,7 @@ sshs ss ss ssh hhhs hh shs shss sh sh ss hsh sh hhs hs hsh
 shss sh sh hh ss ssh sh shh sh shh ss ss sh hs hhh hssh ss
 hs hss sssh hs hh ss sss hs shh sssh hs shh sh hhs ss hs
 shh ss sss shhs hh shh hhss hh ssh hhsh ss hss sh hhh hs
-sh hsh ssss hh sss sshs hs ssh hs sss hhhh hh hh shs hh hhh</text>
+sh hsh ssss hh sss sshs hs ssh hs sss hhhh hh shs hsh</text>
   </lesson>
   <lesson>
    <id>{e9aa0706-df52-4e9e-bf89-fb1432d2db76}</id>
@@ -140,11 +140,11 @@ udd dddd du uu dd ddd uudu ud udd uddd ud udd dduu dd du
 ddu uddd dd ddu ud udd dd uu uu ddu uddu uu dud udud ud uu
 duu duud dd duu dddd uu uu udu dduu dd dd uuu uu udu duuu
 uu ddd dd uuu ddud uu uud uuuu du ddd uu du uud dd ddu du
-du ddu dudd dd ddu ud dd du uu ddd du dd ddd uu uuu dd dud</text>
+du ddu dudd dd ddu ud dd du uu ddd du dd ddud uduu</text>
   </lesson>
   <lesson>
    <id>{f5caf3a0-b71e-4a89-a6ab-4208ef131968}</id>
-   <title>Grundhaltung mit u und d - bis 6 Zeichen</title>
+   <title>Alles Bisherige mit u und d</title>
    <newCharacters></newCharacters>
    <text>ahnde arides traure irdene runder nur unsren raus hau
 andrer tutest eures unsre und saust neues teurer rauend
@@ -170,11 +170,11 @@ co cc ooo cc oo oc ooo cc oco oooc oo cco cooc co occ oo
 oo coc oc ooc oo occ oooc oo ooo oocc oo coo cc occ oo ooo
 cc oo occ oc oo oco ccoc co ooo oooo co cc co cco cc ooo
 cc cc ooc oo coc ccoo oc occ cooc oo occ oocc cc occ cc ooo
-oo oco coco cc oco cc coc oc coo oocc co occ ocoo cc oc cc</text>
+oo oco coco cc oco cc coc oc coo oocc co occ ocoo</text>
   </lesson>
   <lesson>
    <id>{ffca5db7-2cbe-4e3b-90d0-59f34cc48782}</id>
-   <title>Grundhaltung mit o und c - bis 6 Zeichen</title>
+   <title>Alles Bisherige mit o und c</title>
    <newCharacters></newCharacters>
    <text>drohst roden chi eichen sosehr sonst reiche nascht rode
 scanne sich sich ortet toste such drohen huscht eich
@@ -202,11 +202,11 @@ bübb büü büüb üüb bbb büüü üüb büü bbü büü übbb bbb
 bbb bbü bbüü bbb üübb bbb übüü üüü üübb üüü üüü üüü
 üüüü üüü bbb üüüb bbb üüb bbü übü büb übb büüü übü bübb
 bbü büb büb büü üüb üüüb üüü bbb üüü üüü üübb büb üüü
-übü übbb üüü üüb bbü übüü übb büü übüü</text>
+übü übbb üüü üüb bbü üb</text>
   </lesson>
   <lesson>
    <id>{925df11e-4693-4244-99bc-e49c3eb0b9a7}</id>
-   <title>Grundhaltung mit ü und b - bis 6 Zeichen</title>
+   <title>Alles Bisherige mit ü und b</title>
    <newCharacters></newCharacters>
    <text>hab hüte hebst biet bebaut abends brecht übe bin bat
 hebend aerob abrate derben tobst abrate entbot buhen
@@ -232,11 +232,11 @@ www ääww wwä wwww ääw wwää wäw ääw wää wäw wwww wää
 wäää wäw wwää wwä ääww wwä wää äwä äwä wäwä wää wäää
 wwä wäää wäw ääww äww wwä wwä ääw äwäw äwä äwä ääw äwww
 äää ääää wäw wwww www wwää äää wäää äww wwww www wwä
-wwwä ääw www wäwä wää wääw www äää äwwä</text>
+wwwä ääw www wäwä wää wääw</text>
   </lesson>
   <lesson>
    <id>{f65e9c98-75b4-48b5-8266-a3beb047639a}</id>
-   <title>Grundhaltung mit w und ä</title>
+   <title>Alles Bisherige mit w und ä</title>
    <newCharacters></newCharacters>
    <text>wund wuscht wassre wäre würdet wobei wann wach wiehre
 tätet ästet wund stäubt watete hätten wittre wirren
@@ -255,19 +255,18 @@ weites nächst</text>
    <id>{1c252b91-bab1-4fbf-b476-5fe64ab917bd}</id>
    <title>Ringfinger: q und l</title>
    <newCharacters>ql</newCharacters>
-   <text>llq llq lqll lll lqlq qqq lqq qql llll lql llq qlq qqlq
+   <text>llq llq lqll lll lqlq qqq lqq qql lql llq qlq qqlq
 qll qqq lqqq qql lll qqq qlq qqqq llq qll qqlq lql lqql
 lql lllq qll lql qll lql qqqq lql lqql qll qqql qql
-lql qlq qlll qll llll qqq lqq qqll qlq lqqq qlq qllq
+lql qlq qlll qll lll qqq lqq qqll qlq lqqq qlq qllq
 qql lqlq qlq qqqq llq qllq llq lllq lqq lql qlq qqql
 qql qqq lll qlq lqq qql llql lqq qqq qqq lql lqqq lll
-qlq llql qqq lllq lqq lql qqql qql lqll lll qlll qlq
-qlll qlq lqqq llq qql lll qql qlq lqlq
-</text>
+qlq llql qqq lllq lqq lql qql lqll lll qlll qlq
+qlll qlq lqqq llq qql lll qlq lqlq</text>
   </lesson>
   <lesson>
    <id>{6ed41d94-d44e-409f-b72f-d6f70bf446fc}</id>
-   <title>Grundhaltung mit q und l</title>
+   <title>Alles Bisherige mit q und l</title>
    <newCharacters></newCharacters>
    <text>blass lallte dealt laure hohlst alle welche ballte hänsle
 lasst seilst balle schwul lebend deale liste ballt lobe
@@ -280,8 +279,336 @@ abhold tollen halbe lächle übel quill heilte belieh
 soll litten will erlebt licht lobend stehle lehren hohles
 lieb dealte weilte aale hallo heil ludst edlere stellt
 lachen laicht quillt lotet lautes wandle sollst rubbel
-wild blasen
+wild blasen</text>
+  </lesson>
+  <lesson>
+   <id>{4ec1f807-b5ea-4c1b-baa9-0e8b3f3b583e}</id>
+   <title>kleiner Finger: k und j</title>
+   <newCharacters>kj</newCharacters>
+   <text>jjj jkk kjk jjjj jjk jjjj jkk kjk kjk jjk kjjk jjj jk
+kjk jkk kkjk jkj kjj jkj jkjj kjj kjj jjkk kkj kkj kk
+kkj jjjk kjk kjj kkj jkjj kjk kkkk kjk jkk jjk kkjj
+kkk kkjj kkk kkj jjkj jjj jjkk jjj jjkk kkj kjk jjk
+kkjj kkj kjj kkkj jjk jkkj jkk jkkk jjj jjjk kkj kjk
+jjk jjk jjk jkj jkk kkj jkjk kjk jkj kkkk kjk jkk jj
+kjj jjjk kjj jjjj jjk jkjj kkj jjjj jkk jkjk jjk jkj
+jjk jjjj kkk kjk jjkj jkj jkk</text>
+  </lesson>
+  <lesson>
+   <id>{ce730cb2-586a-4151-b887-a337b2a91632}</id>
+   <title>Alles Bisherige mit k und j</title>
+   <newCharacters></newCharacters>
+   <text>schock dackle aneckt danken ketten kokett takten erkenn
+lenke sackt knacke rückte jäh lenke haktet blanke knurre
+ducken kenne bejaht klebe dünkt jähren bockt stärke
+kehren klonen linker akute kehren werkt krass rücke
+krähte harkte krankt krault direkt jaulen bukt kanten
+lockst klärst kellre krache kehrte knacke drück knalle
+kühlen ulktet kaute wankt brüske tankte krass kette
+unkten block buckle trankt bückt klar buken steck keltre
+barock jenes kürst kühnst recken hacken krocht obskur
+winkte knall duckst trank knote jucken kaudre weckte
+klebte winkt lockte jätend kauern jobbst kerbt klaust
+tickst just kicher</text>
+  </lesson>
+  <lesson>
+   <id>{12a950e6-53eb-4d62-a22a-c4ec5ddcc557}</id>
+   <title>Zeigefinger: vö</title>
+   <newCharacters>vö</newCharacters>
+   <text>ööv ööv vövö ööv vöv vvv övöv övö öövö ööv vööv vöö
+ööö vvö vööö ööö vvv vövv övö ööv vöv övv vvv vvvv
+öövö ööö öööö ööö övö ööv övv övö vööv övv vvöv övö
+öövv övö övöv vöv vvö vvöv vöö vvö vvv vvvö övv vvöv
+övv vvvv vöö övö öövö vöv vövö övö övv övöv vöö vvöö
+vvö övvv vvv övv övöv vöö vöv vvv vööv ööv övvö vöv
+öövö övö ööö övv ööö övö vvv vöö övö övv öööö vöv
+öövv övö vööv ööö öövö vvö vvö ööö öv</text>
+  </lesson>
+  <lesson>
+   <id>{7dbd573a-ad26-4749-a720-797cebcd0823}</id>
+   <title>Alles Bisherige mit v und ö</title>
+   <newCharacters></newCharacters>
+   <text>valide erlöse höhne vieler söhnte naiver röstet röcht
+röche stöhne nölen krönte voraus vorhat töte höre könne
+döse söhnt versus könnte servil röcht vice dösend vorl
+nerve voll devot ovale bravst röhrt löhnst vier votier
+höher lösest böse störte wölben vierte höhlst tötet
+hievt naiven hieve vital vertat klönen ödest höhere
+können abhöre blökst blöd tönern anlöte viele löten
+hörbar voran blödle böse können löten vieles stören
+hervor hieve hörend nölen söhnt erhöre klön vollen verlor
+klönst hörtet ödest vorne dörrte röhre röhrte nölend
+van hörte ovalen löhnte wovon kurve vorlas kariös könnt
+abtöte vieler volles</text>
+  </lesson>
+  <lesson>
+   <id>{2249acfa-58a3-458d-9e18-651459a6783b}</id>
+   <title>Zeigefinger: p und y</title>
+   <newCharacters>py</newCharacters>
+   <text>pyy pyyp ypy yyy yyyy ppy yypy ypy ppp yyp pyp pypp
+yyp pppy ypp ppy yypp pyp ypy yppp pyp ypp yypy yyy
+pyy pyyp pyy pyyp pyy yppy pyp yyy ppp yyy yyyp ppp
+yypy pyp pyy ppp yppy yyy ypy yypy ypy yyy ypy pyyy
+ypp pyy ypp pyy yppp ypy pyyp ypy ypy pyp pyy yyyy ypp
+pppp pyp yyp yyy ypp ppp ypy yyy ppy ypyy yyy yypy ppp
+ypyy yyp pypp ypp pyyp pyp ypy pppp ypy ppyy ypy yypy
+yyy pypy pyp yypp ppp yp pyp</text>
+  </lesson>
+  <lesson>
+   <id>{39223564-f11f-44fd-b83b-f3014edeeb21}</id>
+   <title>Alles Bisherige mit p und y</title>
+   <newCharacters></newCharacters>
+   <text>punkte probat spalte knaps tipple kapp sprayt parat
+pinsle paukt punkte später sputen pappen nippst klapp
+prost probst spüre stülpt sprach super nippe pushte
+probat papp probt stripp puncto tappt probst spien hopsen
+paarst parkt spie späten pokert sperre poche paar alpine
+pisst passte aparte spülte stupst pudre tippst alpin
+sputet pocht plotte pappt prasse pik knappe probe kappe
+prall spüren tippe tappt http späht knaps dpi kipp wippe
+pappe hupt nippen kappte piepen paust spürst plant proben
+prüder pulvre pauken platte spornt tippt poröse spross
+spiel wispre kipp spukt pokert piksen pure passiv piks
+pikant</text>
+  </lesson>
+  <lesson>
+   <id>{5b8a217e-08ae-4327-a0f4-8f8dd81222b2}</id>
+   <title>Zeigfinger: g und ,</title>
+   <newCharacters>g,</newCharacters>
+   <text>g,g gggg ,g, gg, ,,, ggg, g,g g,,, ggg ,,g ,,gg ,,
+g,,, ,,, ,g, g,,g ,,g g,g, ,g, g,g ,,, g,gg g,g ,,g
+g,, ,gg, g,, gggg ggg g,,g ,,, ,,gg g,, ,,g, ,,g g,,
+ggg ,g, g,g ,,, ,ggg g,, ,gg gg, ggg ,,, g,,, gg, gg
+,g, ,g,g ggg g,g ,ggg ,,g ,,g ,g,g g,, ,,,g g,, ,g,
+gg, gg, gg,g ,,, gggg g,, ,,, ,,,g gg, g,, ggg ,,g
+g,gg gg, ggg ,gg g,g, g,g gg,, ,,g ,g,, gg, ,,gg
+g,g ,ggg ,,g g,,, gg, g,, ,,,g ,,, g,,,</text>
+  </lesson>
+  <lesson>
+   <id>{bd4b1373-7703-4db9-aa17-ec44049575b8}</id>
+   <title>Alles Bisherige mit g und ,</title>
+   <newCharacters></newCharacters>
+   <text>guckt, kugele gültig grobes hangel abtrug, ärgste stetig
+wegen gekaut gesäte, stieg langer eilig kegle wiege, gekürt
+hurtig jagt, reuig begoss gröl, sinnig geigte gelten getan
+hinge, singe bürgte berge regst, abwägt tätige igelst
+beige glaub anging abging nagtet, abbogt regle garen,
+genügt klang, enges sägen, kegeln läge loggen, eisig junger
+bewegt giltst gable borgt, legte liege gröl geht, glatte,
+nagst glaubt sägtet sägend singt hangle seitig gähnen
+biege glaube, goldig lausig blogge gaukel abgeht, würgen
+laugst gebier engten, legen gehe riesig, garen hingen
+sangen errang angebt grubst orange,
 </text>
+  </lesson>
+  <lesson>
+   <id>{017e1213-7869-4ca8-b6da-74c1a4e41ce2}</id>
+   <title>Ringfinger: m und .</title>
+   <newCharacters>m.</newCharacters>
+   <text>... m.. m... m.. ... mmm. m..m .m. ..m. mm. ....
+m.m .m. ..mm .mm m.m .mm. mm. .m.m mm.m m.m ..m ...
+m.m mm.. .mm m... m.. .mm. m.. mmm .m. mm.m .mmm .mm
+m.m m.mm mmm ... ... m..m ..m mmmm mmm m.. ..mm ...
+.m. .m.m m.. mmm. mmm ..mm ... .mm. .m. mm.. ... ...
+..m .mm m.m .mm. mmm .mm mm. m.. ...m m.m ..m. mm. m.m
+.mm ... m.mm mmm ... ...m mmm mm.. mmm .mm. m.. mm.
+.m. m... mmm m.m mm.. .m. mmm .m..</text>
+  </lesson>
+  <lesson>
+   <id>{c501b113-d787-46e2-a436-d2a691789d25}</id>
+   <title>Alles Bisherige mit m und .</title>
+   <newCharacters></newCharacters>
+   <text>krudem umgabt nummre darum jmdm mutend kam. nimm wimmre
+urigem mähen. abnorm murrte buntem mistig. mengst mobbt
+matte. kämme allem grämt kramte totem ahmst beim murrte.
+blauem kämmst. umriss dämme. modrig müden. umsah. umlege
+vordem müdere. wirrem. mutet miete umtue türmte cremen.
+crem dünnem mästet. modulo abmähe misst. säumte urigem
+ärmste grauem mutete nehmt umgeht. jemand lärmig stürmt.
+böigem mulmig. mutest mähen türmst dimmte grämt. mildre
+rammen. mengst miaust müht hemmen. atmest pump wertem
+mengen stramm anmute leisem sturem umbaue reimte ärmste
+mähte intim pumpst dämmt mithin ahmte kämme mühten.
+</text>
+  </lesson>
+  <lesson>
+   <id>{6ab94503-537d-437e-90d9-eb3f6a7015ab}</id>
+   <title>Kleiner Finger: x und z</title>
+   <newCharacters>xz</newCharacters>
+   <text>xzx zxzz zxz xxxz xzz zzx xxzz xxx zxxx zxz xzxx zxz
+zxzx zzx xxxz xzz xzz xzz xxzx xxx xxx zzz zxz zzzz
+xxx xxx xzx xzxz xzz xzzz zzx xzzx xzz zxzz xzz zzxz
+xxz xxx xxz xxx zxxx zzz xzx xzx zxx zzx xxx xzxz zxx
+xxzx xzz xxxx zzx xzzx zzz zxxz zzz zxzx xxz zxzz xzz
+xzzx xzz zzzx xxx zzzx xxx zzz zxz xxx zxxz xzx xxx
+xxz xzz zxx xxzx xxz xxzz zzx zxz xxx zzz zxxx xxz
+zxxz xzx zzzz zzx zxxx xzz xzxx</text>
+  </lesson>
+  <lesson>
+   <id>{c3c5f233-fbf0-4ffc-8084-cd13843abfc3}</id>
+   <title>Alles Bisherige mit x und z</title>
+   <newCharacters></newCharacters>
+   <text>ächze kotze zahl zupass mixe zuck präzis zerr zucke
+holzen salzt zeltet rotzte stelzt duplex zögere umzogt
+zurück zähme duzten zünd zückte glänzt lasziv tänzle
+zumute zartes zetert zuckt duzte zerrte zielt zähm tanze
+putzen zielt dazu zähl zurate zeugt setzt zwängt zähmte
+sexual zwacke purzle laxen laxes zusah platzt salze
+holz ziehst hexest zudem boxend zucken tanzt zügel kreuze
+zolle patzte zulöte zerkau witzig bezöge zum züchte
+zivile erzogt ätzend zirkle patzt kürzte laxer juchzt
+zoomte max zückst nutzt zirpt zähme zivil zusage zahlte
+boxest zickig zähm zauber zuvor zerr glänze zuzogt zerrte
+kurzem vorzog</text>
+  </lesson>
+  <lesson>
+   <id>{cfd46502-311a-4ca4-a2a1-43079e985109}</id>
+   <title>Kleiner Finger: f und ß (ea)</title>
+   <newCharacters>fß</newCharacters>
+   <text>ßße aeff fßa eeef eaß fßß ßae aaea fßa fßße ßeß eff
+eßßß fßf ßaf aaf eßf eeß fae ßafe efe aßß ßeaa ßea ffß
+aße ffße efa ffa aßß ßaf ßafe fßa eeef ßaa ffea aea
+eae ßßee eaf fee aeaf fff aafe ßaß aßff aaß afaf aee
+ßfa faa ffß aff ßßa eae affa eee efe faea ßaf ßaa aßaf
+fea aaea eff fßee aff afaf eßf aefß ßea ßaae eeß ßfff
+ßee faa effß afß afe ßfea ffe ßaa fff ffe faee eef ßee
+ßff ßafe ßfa ßea ßßfß fa</text>
+  </lesson>
+  <lesson>
+   <id>{0fc13303-fc9f-4c51-b3be-c05ecbc3386e}</id>
+   <title>Alles Bisherige mit f und ß</title>
+   <newCharacters></newCharacters>
+   <text>bewarf unfest taufen feigst besäße offen säufst frohem
+tupfen ließe frühem fertig flache eifert gefror zapft
+pfeife soffen unfrei führst stuf besoff köpf mafios
+mafios trafst süßer rupfen hoffen fatale schuf doofer
+fernem fegst mäßig stieße friere fickte flößt straft
+köpft fußten belief fett flauer köpft dafür steife schief
+froher dampft fünfte dürft elftem fahren zupfst fallen
+oft fairen foppt barfuß liften äße fernem zupfen fütter
+unfair fällt tropfe fühlte gesüßt süßere seife fragte
+falber untief reife flitze dürfte findet kaufte funke
+maßest faucht falte falber fuhrst erkauf fadere größte
+saftig fuhrst</text>
+  </lesson>
+  <lesson>
+   <id>{02e801cc-115a-4136-8adb-c676251f749b}</id>
+   <title>Alles mit Großbuchstaben (1)</title>
+   <newCharacters>KOYVGCLßZHAEIUDTRNSFXQÄÜÖBPWMJ</newCharacters>
+   <text>Stöße Ficks Goethe Therme Kanute Turme Inzest Pegeln
+Dackel Atoms Heidin User Sekret Zeile Besuch Sims Areals
+Kupon Pedals Juden Ananas Lupen Nevada Gigolo Mütze
+Kubus Pfusch Zweck Anitas Hasen maßest Mörtel Garns
+Hobbys Zwirns Erfurt ACL Nord Power Legat Vista Satzes
+Halmen Beilen Firsts Kragen Lutz Reh Büste Erich Markov
+Oase Kinne NEC Moses Teckel Vakanz Tanne Nabel Akku
+Hanaus Erlen Leute Modell Euter Mode Lümmel Galopp Schutt
+Slips Folter Stuhls Sandra Plasma Darm Sektes Ethik
+Komet Zirkel Ponton Tanten Manual Ruhms Modem Kursor
+Vogt Taunus Flaute Fahnen Pute Säften Chören XIII Gunst
+Bikers Baske Bohle</text>
+  </lesson>
+  <lesson>
+   <id>{818992fd-a702-4224-b694-cff8cc4d32f2}</id>
+   <title>Alles mit Großbuchstaben (2)</title>
+   <newCharacters></newCharacters>
+   <text>Spikes Farnen Hofs Solo Duell Korse Karo Togos Zebras
+fußte Ankers Radler Merans GHz Kanüle Börse Mönchs Photos
+Taxen Sven Pfand Syrer Fügens Schals Diebin Tau Maul
+Vogtes Geiß Mühsal Hohnes Hilfen Maxima Hai Rassen Ahnens
+Betrag Bühnen Kaviar Solist Grieße Hefen Bockes Egons
+Füße Lokals Borke Zahns Porno Teer Fachs Anode Wörter
+geißle Koller Zyklen MByte Gebell Sekret Heidis Bunsen
+Tuch Senner Mopeds Rute Toyota Apache Klotz Sippen Schmu
+Nests Hemden Truhen Andy Texel Skalps Zölle Sylts Bonner
+Kabels Solde Karree Obrist Bocks Banjo Teich Angel Reizes
+Halden Oliven Sopran Pfahl Mips Quart Faunen Jeside
+Glas</text>
+  </lesson>
+  <lesson>
+   <id>{3ebf9aad-ec29-4af1-b31b-c271a520a784}</id>
+   <title>Alles mit Großbuchstaben (3)</title>
+   <newCharacters></newCharacters>
+   <text>Kür Pilz Ammen Rande Puma Thor Graden GByte Roggen Zeuges
+Mumm Obdach Wal Wurfs Adolf Henry Gängen Pfunde Nudel
+Nation Erichs Gels Minen Vogel Orbits Gabler Tabula
+Osram Graden Vamps Marius Plauze Flecke Geiß Latte Hähne
+Hedys Choral Dogmen Makels Palmen Säcken Russen Akteur
+Ethnie Futur Tutu Nvidia Laken Rabats Föhren Puppen
+Kellen Bravur Cremes BGS Urne Pirsch Dürers Info Dativs
+Eders Wadis Beate Quota Etons Schmu Legat Trio Boxers
+Täler Dreher Tuffen Cowboy Anhöhe Heidi Leinen Lineal
+Pratze Zechen Hagen Dachau Zulage Punker Wägens Monde
+Compaq Angabe Zions Abfall Egel Kannen Covern Miene
+Maurer Setup Junis</text>
+  </lesson>
+  <lesson>
+   <id>{c5d33eb7-3c97-4e86-8c06-9e77c071df95}</id>
+   <title>Alles mit Großbuchstaben (4)</title>
+   <newCharacters></newCharacters>
+   <text>Trense Noah Zeh Genres Satyrn Musen Kuhlen Shops Ghanas
+Ämtern Lava Amok Areale Zieher Essig Fackel Atom Kugel
+Pillen Knäste Hinz Kalis Infos Lyzeum Kutter Opern Karton
+Kojote Ruins Dumas Ölzeug Unna Böhmin Compaq Meilen
+Gebers Rühe Dämons Kaufes Seins Bauch Rotor Muskel Job
+Puffs ADSL Kran Geräts Kahns Fürth Lenden Bibel Müll
+Koran Packer TCP Talons Bauch Genf Wände Theken Diva
+Rufern Bisse Betts Hektik Heldin Bitmap Senfes Talges
+Kümmel Epilog Ing Piste Gauls Titan VHS Bikers Hexers
+Hauer Welt Gelump Ehrens Teddy Tür Torus Bonner Steak
+Hanf Lohnes Mai Minima Dolly VfB Dauer Tatars Muskat
+Dauer Soleis SOS Arktis Busses Güter User Yin Bads Mini
+Sudans Fiats Dynamo Zombie Butze Prinz Wartes Schub
+Abel Nagers</text>
+  </lesson>
+  <lesson>
+   <id>{69338fb1-e70f-4acd-86fa-d5e4fb0d62e1}</id>
+   <title>Alles mit Großbuchstaben (5)</title>
+   <newCharacters></newCharacters>
+   <text>Statut Clinch Kübel Chören Pogrom Drüsen maßen
+Getöse Mammon Beamte Lesbe Calvin Kontos Beine Höhe
+Krach Georg Bockes Jesu Judäa Loches Kaff Bügel Einrad
+Bonn Saucen Nord Infekt Kelvin Algier Gelage Mensch
+Büste Erle Ivan Teeei Pasten Trafos bloßer Sehens Stühle
+BGS Gracht Erbse Pharao Tool Mädel Folter Fazits Abk
+Zoff Eklats Wirten Civil Bsp Horsts Annie Böhmen Drähte
+Tumult Ubuntu Sättel Kittel Nicole Iberer Plauze Dildo
+Rumpf Sole Schiit Saigon Duft Kerl Mode Merck Bandes
+Mutter Kalif Absud Bäder Bibeln Brokat Hälfte Spurts
+Jacke Manz Lemma Hanfes API Kurier Sälen Sorte Donner
+Sushi Adamek Kinos Klicks Salve Flegel Briefe PCI Sparre
+Haare Trios Arkade Leber müßig Haitis Rommel See Wurmes
+Köcher Sprung Beamer Stucks Adler Phon Zofen Stegen
+Oblate Atoll Butzen Hanne Spatel Teigen Orwell Colt
+Neides
+</text>
+  </lesson>
+  <lesson>
+   <id>{1fe53951-88a0-4c62-91cd-c578fe2fa4d8}</id>
+   <title>Symbole: ( ) { } * ?</title>
+   <newCharacters>(){}*?</newCharacters>
+   <text>{{* (*} {*)* (?( *}) }{?} }?{ {*) *{) ({( )(} *{?* {({
+*}) {?}( *?( }?{ *}{( {){ ?**) *}* {(){ ){} (}{ ({})
+))* )*}{ ?({ ?}) }{}{ ?*} {(* ?)(} {)( {)) ?*? *)) ))(
+*(}* ?{) ()?( {}} (}) }*( ()) (?) )?}? )}) {)* {{{{
+?)? ()?{ **? }?*? *{( *({ }*)? {}} {){* )}) }(?? }{}
+(}} )?} }*} {*)} (?? ??} }}({ ?)* }?{{ *** ((* **}{
+)?{ )??( ()? }?{ )}? *{) (?? ?(} }?) *({) *{* )))} (*{
+({( *}? )??* }{{ )}{) *?
+</text>
+  </lesson>
+  <lesson>
+   <id>{7918282a-2187-4593-8c30-b1f16dfe218a}</id>
+   <title>Symbole: \ / - : @</title>
+   <newCharacters>\/-:@</newCharacters>
+   <text>-@@ \/// //\ :@@/ /@/ @\/ @@-\ -@\ @-- @:-@ :-: :-:@
+:@@ \:/@ \/: ::-: :@\ \/\ -// @\\ /:/ @:\ -\@ \@-
+-/- @:@ ::\ :\-- \/: :/\ \@/@ /\\ --\ -/@ -/:: @//
+@@- \@:\ \\- :\- //@@ @@: \-/ /\\@ ::/ @/:/ :-\ \//\
+@\- --- @-@- -\: /@- \-\ \-/ /\:/ /:\ :::\ :\\ --\ @-:
+@/\: /\: -:-@ @@/ -\/ :\: :/: /\-@ /:/ \/\ :/-\ \/:
+\// @:/ @@/ :/\: /\/ /::- @/@ \/\: /@- -/@ :@@/ -/:
+/@:/ /:\ @-\ -:-\ @\\: /\@ :-/ :-/</text>
   </lesson>
  </lessons>
 </course>
